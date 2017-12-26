@@ -14,3 +14,4 @@
   
 - bind传递参数问题
   - this.handleclick.bind（this，要传的参数）  handleclick（传过来的参数，event）
+  ![代码](./Octocat.jpg "Octocat.jpg")  
