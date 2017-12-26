@@ -13,5 +13,6 @@
   - componentDidUpdate(preProps, preState) 在组件完成更新后立即调用。在初始化时不会被调用。
   
 - bind传递参数问题
-  - this.handleclick.bind（this，要传的参数）  handleclick（传过来的参数，event）
-  ![代码](./Octocat.jpg "Octocat.jpg")  
+  - this.handleclick.bind（this，要传的参数）  handleclick（传过来的参数，event）
+  
+  ![解释图片](https://github.com/Sun23/someText/blob/master/source/test/20170106105419126.png)  
