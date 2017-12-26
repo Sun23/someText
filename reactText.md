@@ -15,4 +15,4 @@
 - bind传递参数问题
   - this.handleclick.bind（this，要传的参数）  handleclick（传过来的参数，event）
   
-  ![解释图片](https://github.com/Sun23/someText/blob/master/source/test/20170106105419126.png)  
+  ![解释图片](https://github.com/Sun23/someText/blob/master/source/img/exp.png)  
